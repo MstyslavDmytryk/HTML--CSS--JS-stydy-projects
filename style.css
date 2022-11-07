@@ -50,7 +50,7 @@ body {
   opacity: 1;
 }
 
-@media (max-width: 680px){
+@media (max-width: 720px){
   .container {
     width: 100vw;
   }
